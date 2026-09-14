@@ -1,9 +1,5 @@
 # Olist | E-Commerce Sales & Operations Analysis
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Business%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ## 📌 Project Overview
 
 This project analyzes the **Olist Brazilian E-Commerce dataset** to evaluate sales performance, customer behavior, order trends, product performance, and delivery operations.
@@ -100,11 +96,11 @@ The SQL analysis includes table-level validation, uniqueness checks, NULL checks
 
 ### 3. Orders & Customers
 
-![Orders & Customers](Images/Orders%20%26%20Customers%20%281%29.png)
+![Orders & Customers](Images/OrdersAndCustomers.png)
 
 ### 4. Delivery & Operations
 
-![Delivery & Operations](Images/Del%20%26%20Operations%20%281%29.png)
+![Delivery & Operations](Images/DeliveryAndOperations.png)
 
 ---
 
