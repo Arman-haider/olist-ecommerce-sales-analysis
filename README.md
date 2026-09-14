@@ -84,25 +84,6 @@ The SQL analysis includes table-level validation, uniqueness checks, NULL checks
 
 ---
 
-## 📸 Dashboard Preview
-
-### 1. Overview
-
-![Overview](Images/Overview.png)
-
-### 2. Sales Analysis
-
-![Sales Analysis](Images/Sales.png)
-
-### 3. Orders & Customers
-
-![Orders & Customers](Images/OrdersAndCustomers.png)
-
-### 4. Delivery & Operations
-
-![Delivery & Operations](Images/DeliveryAndOperations.png)
-
----
 
 ## 🔄 Project Workflow
 
@@ -169,6 +150,25 @@ Olist-Ecommerce-Sales-Analysis/
 | Average Freight | 19.99 |
 
 ---
+## 📸 Dashboard Preview
+
+### 1. Overview
+
+![Overview](Images/Overview.png)
+
+### 2. Sales Analysis
+
+![Sales Analysis](Images/Sales.png)
+
+### 3. Orders & Customers
+
+![Orders & Customers](Images/OrdersAndCustomers.png)
+
+### 4. Delivery & Operations
+
+![Delivery & Operations](Images/DeliveryAndOperations.png)
+
+---
 
 ## 🚀 Conclusion
 
@@ -185,7 +185,3 @@ The combination of **PostgreSQL-based business analysis and Power BI visualizati
 **Arman Haider**
 
 **Data Analyst | SQL | Python | Pandas | Power BI | Excel**
-
-- B.Tech in Computer Science
-- 3+ years of professional experience at Amazon
-- Interested in Data Analytics, Business Intelligence and Data-driven Decision Making
